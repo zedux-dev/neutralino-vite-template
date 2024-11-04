@@ -1,6 +1,6 @@
-# neutralinojs-minimal
+# neutralinojs + vite
 
-The default template for a Neutralinojs app. It's possible to use your favorite frontend framework by using [these steps](https://neutralino.js.org/docs/getting-started/using-frontend-libraries).
+A custom template for a Neutralinojs app. Including vite and vue frontent.
 
 ## Contributors
 
